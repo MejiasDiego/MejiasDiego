@@ -1,5 +1,5 @@
 #  😄  Hello there, I’m Diego Mejías! 
-- 🐤 I’m starting my path as a Full-Stack programmer
+- 🐤 I’m starting my adventure as a Full-Stack programmer
 - 🎥 I enjoy creating short films that change minds 
 - 💕 I want to to learn along other developers
 ### 📫 How to reach me:
