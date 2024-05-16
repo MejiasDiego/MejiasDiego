@@ -6,4 +6,4 @@
 - LinkedIn: https://www.linkedin.com/in/diegomejiaspeña/
 
 >[!IMPORTANT]
-> ❗My portfolio : diegomejias.com/
+> ❗My portfolio : diegomejias.com
